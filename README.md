@@ -9,9 +9,9 @@ I am currently seeking entry-level data analyst opportunities and am available f
 ### Titanic Survival Analysis
 
 Tools: Python, Pandas, Data Visualization
-Explored demographic and socioeconomic factors influencing survival outcomes using exploratory data analysis and statistical visualization.
+Explored how survival rates varied by passenger class, gender, and age using the Kaggle Titanic dataset. Conducted data cleaning, exploratory data analysis, and visualizations to uncover key patterns. Found that first-class passengers, women, and children under 10 had the highest survival rates.
 
--> Project Link: https://github.com/codytps/Titanic-Data-Analysis
+-> Project Repository: [(Titanic Data Analysis)](https://github.com/codytps/Titanic-Data-Analysis)
 
 ### SQL Reporting & Dashboarding
 
