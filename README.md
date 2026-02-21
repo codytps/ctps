@@ -25,7 +25,7 @@ Analyzed historical athlete and country performance trends using relational data
 Tools: SQL, Tableau, Excel
 Developed analytics queries and visual dashboards to summarize key performance metrics.
 
--> SQL Project Collection: (PASTE SQL REPO LINK)
+-> SQL Project Collection: https://github.com/codytps/SQL-Data-Projects.git
 
 # Technical Skills
 
