@@ -1,36 +1,39 @@
-## Hi, I’m Cody Paulay-Simmons
+# Cody Paulay-Simmons
+### Entry-Level Data Analyst | Data Science Graduate (May 2026)
 
-Entry-level Data Analyst | Data Science Graduate (May 2026)
-
-I am a Deaf data science student focused on data analysis, visualization, and accessible communication. I work with real-world datasets to uncover patterns, communicate insights clearly, and support data-informed decision making.
+I am a Deaf data science student focused on data analysis, visualization, and accessible communication. I work with real-world datasets to uncover patterns, communicate insights clearly, and support data-informed decision-making.
 
 I am currently seeking entry-level data analyst opportunities and am available for remote work. I plan to relocate to Hawaii in February 2027.
 
-## Featured Projects
-Titanic Survival Analysis
+# Featured Projects
+### Titanic Survival Analysis
 
-Python, Pandas, Data Visualization
+Tools: Python, Pandas, Data Visualization
 Explored demographic and socioeconomic factors influencing survival outcomes using exploratory data analysis and statistical visualization.
 
-Olympic Performance Analysis
+-> Project Link: (PASTE LINK)
 
-SQL, R, Data Visualization
+### Olympic Performance Analysis
+
+Tools: SQL, R, Data Visualization
 Analyzed historical athlete and country performance trends using relational datasets and statistical summaries.
 
-SQL Reporting & Dashboarding
+-> Project Link: (PASTE LINK)
 
-SQL, Tableau, Excel
+### SQL Reporting & Dashboarding
+
+Tools: SQL, Tableau, Excel
 Developed analytics queries and visual dashboards to summarize key performance metrics.
 
-(Links to each repo go here — we’ll organize that next.)
+-> SQL Project Collection: (PASTE SQL REPO LINK)
 
-## Technical Skills
+# Technical Skills
 
 Programming: Python, SQL, R
 Data Tools: Tableau, Excel, RStudio, Jupyter Notebook
-Methods: Data Cleaning, EDA, Data Visualization, Statistical Analysis, ETL
+Methods: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, ETL
 
-## Professional Focus
+# Professional Focus
 
 Entry-level Data Analyst roles
 
@@ -40,12 +43,11 @@ Accessible and inclusive data communication
 
 Real-world problem solving through analytics
 
-## Interests in Data
+# Interests in Data
 
 Accessibility, health, demography, geography, public policy, sports analytics, and technology.
 
-## Connect With Me
+# Connect With Me
 
-LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/)
-Tableau Portfolio: [(Tableau)](https://public.tableau.com/app/profile/cody.paulay.simmons/vizzes)
-Featured Projects: [SQL Portfolio](PASTE YOUR SQL REPO LINK)
+LinkedIn: https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/?skipRedirect=true
+Tableau Portfolio: https://public.tableau.com/app/profile/cody.paulay.simmons/vizzes
