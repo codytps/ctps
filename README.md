@@ -48,3 +48,4 @@ Accessibility, health, demography, geography, public policy, sports analytics, a
 
 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/)
 Tableau Portfolio: [(Tableau)](https://public.tableau.com/app/profile/cody.paulay.simmons/vizzes)
+Featured Projects: [SQL Portfolio](PASTE YOUR SQL REPO LINK)
