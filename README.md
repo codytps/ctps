@@ -16,9 +16,9 @@ Explored how survival rates varied by passenger class, gender, and age using the
 ### SQL Reporting & Dashboarding
 
 Tools: SQL, Tableau, Excel
-Developed analytics queries and visual dashboards to summarize key performance metrics.
+Developed analytics queries and visual dashboards to summarize key performance metrics across multiple datasets. Projects demonstrate data extraction, aggregation, and reporting workflows.
 
--> SQL Project Collection: https://github.com/codytps/SQL-Data-Projects.git
+-> SQL Project Collection: [(SQL Data Projects)](https://github.com/codytps/SQL-Data-Projects.git)
 
 ### Capstone Project (In Progress)
 
