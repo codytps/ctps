@@ -1,26 +1,50 @@
-# 👋 Hi, I'm Cody
+## Hi, I’m Cody Paulay-Simmons
 
-I'm a Deaf student studying data science with a focus on data visualization, analytics, and communication. I believe in making data understandable, impactful, and accessible... not just for experts, but for everyone.
+Entry-level Data Analyst | Data Science Graduate (May 2026)
 
-## 🔍 What I'm Working On
-- Learning data visualization tools like ggplot2
-- Exploring data storytelling and communication through real world datasets
-- Building projects that reflect my interests in demography, geography, accessibility, health, tech, politics, history, sports and more
+I am a Deaf data science student focused on data analysis, visualization, and accessible communication. I work with real-world datasets to uncover patterns, communicate insights clearly, and support data-informed decision making.
 
-## 🛠️ Tools & Technologies
-- Languages: Python, R, SQL
-- Libraries: pandas, ggplot2, matplotlib, seaborn, dplyr
-- Other: RStudio, Jupyter, Quarto, Git/GitHub
+I am currently seeking entry-level data analyst opportunities and am available for remote work. I plan to relocate to Hawaii in February 2027.
 
-## 🎯 Goals for 2025
-- Complete hands-on data projects that highlight my skills and growth
-- Strengthen my portfolio for internship/job opportunities in data analysis, science or research
-- Continue finding ways to bridge data and accessibility
+## Featured Projects
+Titanic Survival Analysis
 
-## 🧠 Fun Fact
-I use my TV to better see my ASL interpreter during remote classes. It is a reminder of how thoughtful tech design can improve access and communication.
+Python, Pandas, Data Visualization
+Explored demographic and socioeconomic factors influencing survival outcomes using exploratory data analysis and statistical visualization.
 
----
+Olympic Performance Analysis
 
-📫 Let’s connect!
-I’m always open to collaboration, feedback, and learning from others in the community.
+SQL, R, Data Visualization
+Analyzed historical athlete and country performance trends using relational datasets and statistical summaries.
+
+SQL Reporting & Dashboarding
+
+SQL, Tableau, Excel
+Developed analytics queries and visual dashboards to summarize key performance metrics.
+
+(Links to each repo go here — we’ll organize that next.)
+
+## Technical Skills
+
+Programming: Python, SQL, R
+Data Tools: Tableau, Excel, RStudio, Jupyter Notebook
+Methods: Data Cleaning, EDA, Data Visualization, Statistical Analysis, ETL
+
+## Professional Focus
+
+Entry-level Data Analyst roles
+
+Data visualization and reporting
+
+Accessible and inclusive data communication
+
+Real-world problem solving through analytics
+
+## Interests in Data
+
+Accessibility, health, demography, geography, public policy, sports analytics, and technology.
+
+## Connect With Me
+
+LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/)
+Tableau Portfolio: [(Tableau)](https://public.tableau.com/app/profile/cody.paulay.simmons/vizzes)
