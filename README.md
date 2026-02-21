@@ -47,5 +47,5 @@ Accessibility, health, demography, geography, public policy, sports analytics, a
 
 # Connect With Me
 
-[(LinkedIn)](https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/?skipRedirect=true)
+[(LinkedIn)](https://www.linkedin.com/in/cody-paulay-simmons-65492a2bb/?skipRedirect=true)\
 [(Tableau)](https://public.tableau.com/app/profile/cody.paulay.simmons/vizzes)
