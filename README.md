@@ -11,7 +11,7 @@ I am currently seeking entry-level data analyst opportunities and am available f
 Tools: Python, Pandas, Data Visualization
 Explored demographic and socioeconomic factors influencing survival outcomes using exploratory data analysis and statistical visualization.
 
--> Project Link: file:///Users/cody/Documents/MCC/Data%20Science/Final%20Project%20Titanic.html
+-> Project Link: https://github.com/codytps/Titanic-Data-Analysis
 
 ### SQL Reporting & Dashboarding
 
